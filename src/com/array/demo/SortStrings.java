@@ -10,8 +10,7 @@ public class SortStrings
 		Scanner sc=new Scanner(System.in);		
 		System.out.println("Enter the size of the array");
 		
-		int n=sc.nextInt();
-		
+		int n=sc.nextInt();		
 		
 		int a[]=new int[n];
 		int i,r;
