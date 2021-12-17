@@ -9,7 +9,7 @@ These files in package com.demo contain basic methods with Math functions and lo
 
 
 These com.demo files are checked(returns boolean) whether they are in ascending order(by using ASCII).
-AlphabeticalString - Converting input String into a Char array, "abc" = + and "bac" = -
+AlphabeticalString - Converting input String into a Char array, "abc" = +num and "bac" = -num
 CheckIfIncreasingNumber - Used the functionality of Ternary Operator
 logic - each digit is checked in a file, if it is the last digit(one's digit, exited from loop) then divided by 10 to get every digit
 
