@@ -15,6 +15,7 @@ logic - each digit is checked in a file, if it is the last digit(one's digit, ex
 
 
 Package **com.array.demo** files use Array functionalities like .sort() etc
-***SecondSmallest.java***    -  .sort() and fetches using index -> arr[1] = second smallest element
-***RemoveDuplicates.java
-SortStrings.java***   
+
+4) ***SecondSmallest.java***    -  .sort() and fetches using index -> arr[1] = second smallest element
+5) ***RemoveDuplicates.java***
+6) ***SortStrings.java***   
