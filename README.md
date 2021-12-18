@@ -9,8 +9,11 @@ These files in **package com.demo** contain basic methods with Math functions an
 
 
 Package **com.demo** files returns boolean if they are in ascending order(by using ASCII values internally);
+
 4) ***AlphabeticalString.java***      - Converting input String into a Char array, "abc" = positive num and "bac" = negative num;
+
 5) ***CheckIfIncreasingNumber.java*** - Used the functionality of **Ternary Operator**;
+
 Logic - each digit is checked in a file, if it is the last digit(one's digit, exited from loop) then divided by 10 to get every digit
 
 
